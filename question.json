@@ -1,0 +1,57 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "A customer needs to write the number 54 in words on a deposit form. Which option should Liam choose?",
+      "options": [
+          "Forty-four",
+          "Fifty-four",
+          "Fifty-five",
+          "Fifty-three"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Another customer wrote 'twenty-three' on their withdrawal slip, but Liam needs to write it in digits. What is the correct number?",
+      "options": [
+          "32",
+          "23",
+          "33",
+          "22"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Liam is filling out a loan document and needs to write 94 in words. Which option is correct?",
+      "options": [
+          "Ninety-three",
+          "Ninety-two",
+          "Ninety-five",
+          "Ninety-four"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q4",
+      "question": "A customer provided the number 'ninety-eight' for their account, but Liam needs to write it in digits. Which one is correct?",
+      "options": [
+          "88",
+          "89",
+          "98",
+          "97"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q5",
+      "question": "On a savings account form, the number 76 needs to be written in words. Which option should Liam choose?",
+      "options": [
+          "Fifty-six",
+          "Sixty-seven",
+          "Sixty-six",
+          "Seventy-six"
+      ],
+      "correct": 3
+  }
+]
